@@ -1,0 +1,3 @@
+namespace parprog {
+
+}; // namespace parprog
