@@ -1,0 +1,2 @@
+add_subdirectory(single_threaded)
+add_subdirectory(multi_threaded)

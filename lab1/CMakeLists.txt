@@ -19,3 +19,4 @@ add_subdirectory(src)
 
 # Directories with executables
 add_subdirectory(pi_calculation)
+add_subdirectory(timing_communication)
